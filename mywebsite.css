@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(228, 195, 111);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+padding: 20px;
+}
+.nav-link{
+    text-decoration: none;
+    margin: 30px;
+}
+.hero{
+    text-align: center;
+    padding: 120px;
+  background: url("https://fastlagos.com/wp-content/uploads/2020/05/luxurious-restaurants-in-Ikeja.jpg");
+  margin-bottom: 100px;
+}
+.hi{
+    background-color: rgba(168, 144, 112, 0.562);
+    display: inline;
+}
+.food1{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.food2{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.food{
+    text-align: center;
+}
+.fooditems1{
+    background-color: rgb(238, 219, 133);
+    padding: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+h1,h3,p{
+    text-align: center;
+}
+.contact{
+    padding: 100px;
+    align-items: center;
+    margin: auto;
+}
+.contact label{
+   display: block;
+   margin-bottom: 10px;
+}
+.contact input,textarea{
+    width: 100%;
+    color: rgb(104, 87, 15);
+    background-color: rgba(182, 166, 98, 0.877);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+button{
+    color: rgb(0, 0, 0);
+    background-color:  rgba(182, 166, 98, 0.877);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+.contactp{
+    background-color: rgb(238, 219, 133);
+    margin-left: 100px;
+    margin-right: 100px;
+}
